@@ -1,2 +1,3 @@
 # codemania-ml
-Course materials and additional information for Machine Learning workshop
+All the course materials, recommended learning materials and excercises will be available here after each session.
+
