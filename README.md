@@ -8,3 +8,5 @@ All the course materials, recommended learning materials and excercises will be 
 ### [Day 2](https://github.com/paravsingla/codemania-ml/tree/master/Day%202)
 
 ### [Day 3](https://github.com/paravsingla/codemania-ml/tree/master/Day%203)
+
+### [Day 4](https://github.com/paravsingla/codemania-ml/tree/master/Day%204)
