@@ -19,6 +19,6 @@ Today, we learned about Linear and Polynomial Regression
   > 3. zip file should be like this : <your_name>.zip
   > 4. The jupyter notebook should have plots that show the relationship between target variable and feature variables. You should also have plots for regression curve and any other curve you think will be helpful.
   > 5. The code should be well commented and clean
-  > 6. Last date of submission is 03-06-2019 (3rd June, 2019) 
+  > 6. Last date of submission is 31-05-2019 (Friday) 
   > 7. Link for submission will be put up shortly.
   > 8. If you cannot find a dataset on your own, you can use [this](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) dataset.
